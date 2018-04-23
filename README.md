@@ -1,5 +1,6 @@
 # React-Native-Toast
 从第三方库里拉出来,自己稍作修改后的toast组件,支持双平台,纯js编写
+直接将本文件夹复制到你自己装工具类/组件的目录里即可.
 # `Toast{}` 轻提示
 Toast 为轻提示静态类, 与 Android 的 Toast 作用类似, 使用纯 JS 编写, 在 iOS 与 Android 下有同样的显示效果。<br/>Toast 基于 [Overlay{}](./Overlay.md) 实现。
 
