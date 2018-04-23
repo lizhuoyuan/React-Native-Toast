@@ -36,6 +36,8 @@ Toast 为轻提示静态类, 与 Android 的 Toast 作用类似, 使用纯 JS �
 ## Example
 简单用法
 ```
+import Toast from './你自己的目录/toast';
+
 Toast.message('Toast message');
 Toast.success('Toast success');
 Toast.fail('Toast fail');
